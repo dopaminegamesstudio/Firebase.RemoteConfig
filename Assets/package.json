@@ -1,0 +1,22 @@
+{
+  "name": "com.dopamine.firebase.analytics",
+  "displayName": "Firebase Analytics",
+  "version": "10.0.0",
+  "unity": "2020.2",
+  "description": "Analytics modules of Firebase SDK for Unity",
+  "author": {
+    "name": "Dopamine Game Studio",
+    "url": "",
+    "email": "omid.es73@gmail.com"
+  },
+  "license": "Apache-2.0",
+  "keywords": [],
+  "category": "",
+  "dependencies": {
+    "com.dopamine.firebase.core": "10.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/upm-packages/Firebase.Analytics"
+  }
+}
