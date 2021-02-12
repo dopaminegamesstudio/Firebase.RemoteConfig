@@ -1,7 +1,7 @@
 {
   "name": "com.dopamine.firebase.remoteconfig",
   "displayName": "Firebase Remote Config",
-  "version": "10.0.0",
+  "version": "10.0.1",
   "unity": "2020.2",
   "description": "Remote Config modules of Firebase SDK for Unity",
   "author": {
